@@ -1,4 +1,4 @@
-#Error handling
+##Error handling
 This is a Solidity program for error handling.
 
 ## Description
@@ -9,14 +9,14 @@ Three methods are used for error handling:
 
 
 ## Getting Started
-  #Executing Program
+  ##Executing Program
   To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 
 Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., error.sol).
 
-#Authors
+##Authors
 Bhawna Verma
 @bv-007
 
-#License
+##License
    This project is licensed under the MIT License
